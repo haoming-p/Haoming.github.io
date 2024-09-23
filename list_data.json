@@ -1,17 +1,19 @@
-[
-    {
-        "topic": "Stack",
-        "example": "155",
-        "proficiency": 5
-    },
-    {
-        "topic": "Sliding Window",
-        "example": "643",
-        "proficiency": 4
-    },
-    {
-        "topic": "Graph",
-        "example": "200",
-        "proficiency": 2
-    }
-]
+{
+    "leetcode": [
+        {
+            "topic": "Stack",
+            "example": "155",
+            "proficiency": 5
+        },
+        {
+            "topic": "Sliding Window",
+            "example": "643",
+            "proficiency": 4
+        },
+        {
+            "topic": "Graph",
+            "example": "200",
+            "proficiency": 2
+        }
+    ]
+}
