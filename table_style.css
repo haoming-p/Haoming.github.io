@@ -9,10 +9,10 @@ td {
 
 #self{
   width: 80%;
+  padding-top: 12px;
   text-align: left !important;
 }
-
 #mycat{
   width: 200px;
-  margin: 50px;
+  margin: 20px;
 }
